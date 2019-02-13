@@ -151,7 +151,7 @@
 									</manifestEntries>
 								</transformer>
 							</transformers>
-							<outputFile>${project.build.directory}/${project.artifactId}-fat.jar
+							<outputFile>${project.build.directory}/${project.artifactId}-fat.war
 							</outputFile>
 						</configuration>
 					</execution>
